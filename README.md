@@ -24,20 +24,7 @@
   <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,nodejs,php,mysql,mongodb&theme=dark" />
 </p>
 
----
-
-## 📜 Feitiços Conjurados (Projetos)
-
-### 🛡️ Sistema de Proteção às Guardiãs
-*Um poderoso sistema digital criado para auxiliar mulheres em situação de vulnerabilidade.*
-* 📱 Aplicação mobile (**React Native**) | 🌐 Plataforma web informativa
-* 🖥️ Painéis administrativos em **C#** | 🔐 Foco em segurança e acessibilidade
-
-### 🎨 Encantamentos Visuais
-*Interfaces criadas com precisão e estética refinada no **Figma**.*
-* Design centrado no usuário | Experiências modernas e fluidas
-
----
+----
 
 ## 📊 Oráculos (Estatísticas)
 
