@@ -1,69 +1,63 @@
-# 📖 Grimório de Geovanna ✨
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=28&pause=1000&color=800020&center=true&vCenter=true&width=600&lines=Desenvolvedora+Multiplataforma;Arquiteta+de+Interfaces;Tecendo+Magia+com+C%C3%B3digo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=32&duration=3500&pause=1000&color=900c3f&center=true&vCenter=true&width=700&lines=Geovanna;Arquiteta+de+Interfaces;Desenvolvedora+Multiplataforma" />
 </p>
 
 ---
 
-## 🕯️ Sobre a Feiticeira
+## 💻 Sobre Mim
+> *"A arquitetura de software e o design de interfaces se encontram na busca pela precisão. Desenvolvo sistemas focados na harmonia entre a estética visual e a eficiência estrutural."*
 
-> Em um mundo onde tecnologia e criatividade se entrelaçam,
-> surge uma desenvolvedora capaz de transformar ideias em experiências digitais.
-
-🎓 **Aprendiz da arte:** Desenv. Multiplataforma (**Fatec**)
-🎨 **Mestra das Cores:** Interfaces elegantes e intuitivas (**UX/UI**)
-🧠 **Portadora do Selo:** Certificada pela **IBM SkillsBuild**
-✨ **Essência:** Especialista em dar vida a projetos com propósito
+* **🎓 Formação:** Graduanda em Desenvolvimento Multiplataforma na **Fatec**.
+* **🎨 Especialidade:** Interface e Arquitetura de Informação com foco em criar experiências digitais fluidas e intuitivas através do **UX/UI Design**.
+* **📜 Certificações:** Formada em UX Design pela **IBM SkillsBuild**.
+* **✨ Diretriz:** Desenvolvimento focado em acessibilidade, usabilidade e na criação de soluções com real propósito prático.
 
 ---
 
-## 🔮 Arsenal Arcano (Tecnologias)
+## 🔮 Tecnologias e Ferramentas
+*O ecossistema técnico que utilizo para estruturar e dar vida aos projetos:*
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,nodejs,php,mysql,mongodb&theme=dark" />
-</p>
-
-----
-
-## 📊 Oráculos (Estatísticas)
-
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geegeovanna&theme=dracula" width="100%" />
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,ts,react,nodejs,python,mongodb&theme=dark" />
 </p>
 
 ---
 
-## 🐍 Espírito das Contribuições
+## 📊 Estatísticas e Consistência
+*Métricas de evolução contínua e atividades no ecossistema de desenvolvimento:*
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geegeovanna&theme=tokyonight&background=121212&fire=900c3f&ring=900c3f&ring_active=900c3f&stroke=900c3f&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&sideNums=ffffff" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=geegeovanna&layout=compact&theme=dark&bg_color=121212&title_color=900c3f&text_color=ffffff&hide_border=true" width="49%" />
+</p>
+
+---
+
+## 🐍 Linha do Tempo de Contribuições
 <p align="center">
   <img src="https://raw.githubusercontent.com/geegeovanna/geegeovanna/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## ✉️ Invocar Contato
+## ✉️ Conectar e Contato
+*Canais abertos para comunicação, conexões profissionais e novos projetos:*
+
 <p align="center">
 <a href="mailto:geovanna.psilva10@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-800020?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-900c3f?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/geovanna-pereira-171439357/">
-  <img src="https://img.shields.io/badge/LinkedIn-800020?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-900c3f?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## 🩸 Selo Arcano
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=900c3f&height=120&section=footer"/>
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=geegeovanna&label=Viajantes&color=800020&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=geegeovanna&label=Visitas&color=900c3f&style=flat" />
 </p>
-
----
-
-> ✨ “Não escrevo apenas código… eu conjuro experiências.”
