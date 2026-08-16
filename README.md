@@ -28,7 +28,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=geegeovanna&theme=tokyonight&background=121212&fire=900c3f&ring=900c3f&ring_active=900c3f&stroke=900c3f&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&sideNums=ffffff" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=geegeovanna&layout=compact&theme=dark&bg_color=121212&title_color=900c3f&text_color=ffffff&hide_border=true" width="49%" />
 </p>
 
 ---
