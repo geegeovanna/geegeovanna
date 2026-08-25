@@ -23,15 +23,6 @@
 
 ---
 
-## 📊 Estatísticas e Consistência
-*Métricas de evolução contínua e atividades no ecossistema de desenvolvimento:*
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geegeovanna&theme=tokyonight&background=121212&fire=900c3f&ring=900c3f&ring_active=900c3f&stroke=900c3f&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&sideNums=ffffff" width="49%" />
-</p>
-
----
-
 ## 🐍 Linha do Tempo de Contribuições
 <p align="center">
   <img src="https://raw.githubusercontent.com/geegeovanna/geegeovanna/output/github-contribution-grid-snake.svg" />
